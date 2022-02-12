@@ -52,7 +52,7 @@ public class HOME2 {
         }
     }
 
-    static void taskThee(int[] multi) {
+    static void taskThree(int[] multi) {
         System.out.println("ЗАДАНИЕ3");
         //Задать массив [ 1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1 ]
         // пройти по нему циклом, и числа меньшие 6 умножить на 2;
