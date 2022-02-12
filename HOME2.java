@@ -12,7 +12,7 @@ public class HOME2 {
         System.out.println();
         taskTwo(8);
         System.out.println();
-        taskThee(multi);
+        taskThree(multi);
         System.out.println();
         taskFour(fill);
 
